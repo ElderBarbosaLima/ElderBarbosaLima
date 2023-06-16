@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on projects that using .NET and Salesforce
 - 💬 Ask me about development and my work
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
